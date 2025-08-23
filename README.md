@@ -40,7 +40,23 @@ Hi, I'm **Swapna Kondapuram** 👋
 ![GitHub Streak](https://streak-stats.demolab.com?user=swap0506&theme=tokyonight)
 
 ---
+# 🚀 Top Contributed Repos
 
+
+Here are some of my most recent and actively contributed projects:
+
+
+| Repository | Description |
+|------------|-------------|
+| [acroecology-project_](https://github.com/swap0506/acroecology-project_) | Project focused on acroecology concepts and data analysis. |
+| [Dev-Sync](https://github.com/swap0506/Dev-Sync) | Platform for developer collaboration and sync tools. |
+| [food-waste-management](https://github.com/swap0506/food-waste-management) | Application to track and reduce food waste. |
+| [ecommerce](https://github.com/swap0506/ecommerce) | A scalable e-commerce solution with cart and billing features. |
+| [front-end](https://github.com/swap0506/front-end) | Front-end implementations for various web applications. |
+| [chat-app](https://github.com/swap0506/chat-app) | Real-time chat application with modern UI. |
+| [health-advisory](https://github.com/swap0506/health-advisory) | Automated health advisory and information platform. |
+| [FACE-MASK-DETECTION](https://github.com/swap0506/FACE-MASK-DETECTION) | AI-based face mask detection project. |
+| [ISRO_hackathon](https://github.com/swap0506/ISRO_hackathon) | Hackathon project with innovative solutions for ISRO. |
 
 
 # 🌐 Connect With Me  
