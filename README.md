@@ -32,9 +32,9 @@ Hi, I'm **Swapna Kondapuram** 👋
 
 # 📊 GitHub Stats  
 
-![Swapna's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)
+![Swapna's GitHub stats](https://github-readme-stats.vercel.app/api?username=swap0506&show_icons=true&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swap0506&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=swap0506&theme=tokyonight)
 
 ---
 
