@@ -26,7 +26,7 @@ Hi, I'm **Swapna Kondapuram** 👋
 - 🤖 **Financial Chatbot** → AI-powered chatbot for banking & insurance queries.  
 - 📊 **Centrifugal Pump Geometry ML Model** → Internship project applying ML to mechanical systems.  
 
-👉 Check out more projects [here](https://github.com/yourusername?tab=repositories).  
+👉 Check out more projects [here](https://github.com/swap0506).  
 
 ---
 
@@ -46,10 +46,9 @@ Hi, I'm **Swapna Kondapuram** 👋
 ---
 
 # 🌐 Connect With Me  
-📫 [Email](mailto:your-email@example.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-🐦 [Twitter](https://twitter.com/your-twitter)  
-🌍 [Portfolio](https://your-portfolio.com)  
+📫 [Email](swapnakondapuram05@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/swapna-kondapuram-630626292)  
+
 
 ---
 
