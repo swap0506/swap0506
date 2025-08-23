@@ -1,16 +1,57 @@
-## Hi there 👋
+# 💫 About Me  
+Hi, I'm **Swapna Kondapuram** 👋  
+🎓 B.Tech 3rd Year Student in Mechanical Engineering (interested in Software Development & ML).  
+💻 Passionate about **Full-Stack Development, Machine Learning, and DSA**.  
+🚀 Exploring **open-source contributions** and preparing for top-tech internships.  
+📚 Always learning & building — from **DSA challenges** to **real-world applications**.  
 
-<!--
-**swap0506/swap0506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 🔧 Tech Stack  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+
+---
+
+# 📌 Featured Projects  
+- 🛍️ **E-Commerce Website** → Online shopping platform with cart & billing system.  
+- 🔑 **Authentication System** → MERN stack user login/signup with OTP verification.  
+- 🤖 **Financial Chatbot** → AI-powered chatbot for banking & insurance queries.  
+- 📊 **Centrifugal Pump Geometry ML Model** → Internship project applying ML to mechanical systems.  
+
+👉 Check out more projects [here](https://github.com/yourusername?tab=repositories).  
+
+---
+
+# 📊 GitHub Stats  
+
+![Swapna's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)  
+
+---
+
+# 🏆 Achievements & Activities  
+- 🌟 Internships at **Acmegrade** & **Mood Indigo, IIT Bombay**  
+- ⚡ Participated in **hackathons & open-source events**  
+- 📈 Following **Striver’s SDE Sheet** & **GFG 160-day DSA Challenge**  
+
+---
+
+# 🌐 Connect With Me  
+📫 [Email](mailto:your-email@example.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+🐦 [Twitter](https://twitter.com/your-twitter)  
+🌍 [Portfolio](https://your-portfolio.com)  
+
+---
+
+✨ *“Code, Learn, Build, Repeat.”*  
+
