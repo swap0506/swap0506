@@ -32,18 +32,13 @@ Hi, I'm **Swapna Kondapuram** 👋
 
 # 📊 GitHub Stats  
 
-![Swapna's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)  
+![Swapna's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)
 
 ---
 
-# 🏆 Achievements & Activities  
-- 🌟 Internships at **Acmegrade** & **Mood Indigo, IIT Bombay**  
-- ⚡ Participated in **hackathons & open-source events**  
-- 📈 Following **Striver’s SDE Sheet** & **GFG 160-day DSA Challenge**  
 
----
 
 # 🌐 Connect With Me  
 📫 [Email](swapnakondapuram05@gmail.com)  
