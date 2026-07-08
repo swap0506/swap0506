@@ -54,36 +54,13 @@ Hi, I'm **Swapna Kondapuram** 👋
 # 🌟 Featured Projects
 
 ### 🎙️ AI-Powered Offline Meeting Assistant
-
-Built a **full-stack voice-enabled meeting assistant** with fully local GPU inference. Integrated real-time **speech-to-text**, **LLM-based meeting intelligence**, **RAG-based session querying**, and **text-to-speech** output.
-
-**Highlights:** FastAPI, Voxtral, Qwen3, Ollama, ChromaDB, vLLM, React, GPU Inference, RAG
-
 ### 📈 Adaptive Multiresolution Learning for Time-Series Forecasting
-
-Research project focused on improving long-term multivariate forecasting through **adaptive decomposition**, **wavelet-based feature learning**, and frequency-aware temporal representations.
-
-**Highlights:** Python, PyTorch, Deep Learning, Time-Series Forecasting, Wavelets, Multivariate Forecasting
-
 ### 🤖 Financial RAG Chatbot
-
-Developed an AI chatbot for banking and insurance-related questions using **retrieval-augmented generation** for more grounded and context-aware responses.
-
-**Highlights:** Python, LLMs, RAG, Vector Databases, NLP
-
 ### ⚙️ Centrifugal Pump Geometry Prediction
 
-Built a machine learning model to predict centrifugal pump geometry parameters and analyze feature importance for mechanical-system design decisions.
 
-**Highlights:** Python, scikit-learn, Random Forest, SHAP, Data Analysis
 
-### 🛍️ Full-Stack E-Commerce Platform
 
-Developed an online shopping platform with product browsing, cart management, authentication, and billing workflows.
-
-**Highlights:** React, Node.js, MongoDB, JavaScript, REST APIs
-
----
 
 # 📌 Current Focus
 
