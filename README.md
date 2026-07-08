@@ -106,12 +106,6 @@ Developed an online shopping platform with product browsing, cart management, au
 💬 Interested in collaborating on **AI/ML, RAG, time-series forecasting, or full-stack projects**.
 
 
----
-
-
--
-
-
 
 ---
 # 🚀 Top Contributed Repos
